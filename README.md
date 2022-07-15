@@ -21,11 +21,10 @@ This calculator is designed to look like the Mac calculator.<br><br>
 <h1 align="center">Challenges and Learnings along the way 🤯</h1>
 
 ````
-In the development of these applications, I learned a lot about logic, folder organization, and I had a 
-new idea and learned aboutFlutter Widgets.I got along well with the development of this application. 
-Unfortunately there was a silly error that cost me a certain amount of time, and the only thing I should 
-havedone was to give a "Flutter Pub Get" in Terminal, fortunately, I found this solution,and the 
-application works normally in version 3.0.5 
+In the development of these applications, I learned a lot about logic, folder organization, and I had a new idea and learned about
+Flutter Widgets.I got along well with the development of this application. Unfortunately there was a silly error that cost me a
+certain amount of time, and the only thing I should have done was to give a "Flutter Pub Get" in Terminal, fortunately, I found
+this solution,and the application works normally in version 3.0.5 <br/>
 
 ````
 <hr>
