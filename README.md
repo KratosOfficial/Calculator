@@ -10,22 +10,27 @@
 <h3 align="left">About 📖</h3>
 
 A Calculator for the four simple mathematical operations (addition, subtraction, multiplication and division) using Flutter 💙.<br>
-This calculator is designed to look like the Mac calculator.<br>
-This application is in version 1.0.0.
-
+This calculator is designed to look like the Mac calculator.<br><br>
+<hr>
 
 <h1 align="center">Preview 📱</h1>
 
 ![Frame 20 (1)](https://user-images.githubusercontent.com/83639732/178964575-8ed65035-ee0f-47b8-a022-a57feb25e35c.png)
 ![Frame 27 (1)](https://user-images.githubusercontent.com/83639732/178964586-7b0ef00f-c13b-4cb5-ad21-ca290258412e.png)
-
+<hr>
 <h1 align="center">Challenges and Learnings along the way 🤯</h1>
 
-<p>In the development of these applications, I learned a lot about logic, folder organization, and I had a new idea and learned about Flutter Widgets.<br>
-I got along well with the development of this application. Unfortunately there was a silly error that cost me a certain amount of time, and the only thing I should have done was to give a "Flutter Pub Get" in Terminal, fortunately, I found this solution, and the application works normally in version 1.0.0.<br> </p>
+````
+In the development of these applications, I learned a lot about logic, folder organization, and I had a new idea and learned about
+Flutter Widgets.I got along well with the development of this application. Unfortunately there was a silly error that cost me a 
+certain amount of time, and the only thing I should have done was to give a "Flutter Pub Get" in Terminal, fortunately, I found 
+thissolution,and the application works normally in version 1.0.0. 
 
+````
+<hr>
 <h1 align="center">How to Use 🤔</h1>
 
+````
 - Clone this repository:
 $ git clone https://github.com/KratosOfficial/Calculator
 
@@ -38,8 +43,11 @@ $ flutter packages get
 - Run the app: 
 $ flutter run
 
+````
+<hr>
 <h1 align="center">How to Contribute 💪</h1>
 
+````
 - Fork the project 
 
 - Create a new branch with your changes:
@@ -51,12 +59,14 @@ $ git commit -m "feature: My new feature"
 - Submit your changes:
 $ git push origin my-feature
 
+````
+<hr>
 <h1 align="center">License 📝</h1>
 
 This repository is under MIT license. You can see the LICENSE file for more details. 😉
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<hr>
+<h3 align="Center">Connect with me:</h3>
+<p align="Center">
 <a href="https://twitter.com/genxkratos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="genxkratos" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/santoshverma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="santoshverma" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/kratos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="kratos" height="30" width="40" /></a>
