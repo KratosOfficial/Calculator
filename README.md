@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Calculator - Flutter Application</h1>
-<h3 align="center">A Simple And Asthetic Calculator App With Logic </h3>
+<h3 align="center">A Simple And Aesthetic Calculator App With Logic </h3>
 
 <img align="right" alt="Coding" width="200" src="https://cdn.iconscout.com/icon/free/png-256/calculator-716-461701.png">
 
